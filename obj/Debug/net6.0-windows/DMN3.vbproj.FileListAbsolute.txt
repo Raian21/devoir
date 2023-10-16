@@ -1,0 +1,17 @@
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\bin\Debug\net6.0-windows\DMN3.exe
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\bin\Debug\net6.0-windows\DMN3.deps.json
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\bin\Debug\net6.0-windows\DMN3.runtimeconfig.json
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\bin\Debug\net6.0-windows\DMN3.dll
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\bin\Debug\net6.0-windows\DMN3.pdb
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.vbproj.AssemblyReference.cache
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.Form1.resources
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.vbproj.GenerateResource.cache
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.AssemblyInfoInputs.cache
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.AssemblyInfo.vb
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.vbproj.CoreCompileInputs.cache
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.dll
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\refint\DMN3.dll
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.pdb
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\DMN3.genruntimeconfig.cache
+C:\Users\GOLDEN TECCH\Downloads\TRAVAIL KIAMA\DMN3\obj\Debug\net6.0-windows\ref\DMN3.dll
